@@ -36,7 +36,7 @@ echo "|                    LegendSock server for CentOS                    |";
 echo "+--------------------------------------------------------------------+";
 echo "|   For more information please visit https://www.legendsock.com     |";
 echo "+--------------------------------------------------------------------+";
-echo "|                      `Echo_Blue "Press any key to upgrade"`                      |";
+echo "|                `Echo_Blue "Press any key to upgrade"`              |";
 echo "+--------------------------------------------------------------------+";
 OLDCONFIG=`stty -g`;
 stty -icanon -echo min 1 time 0;
